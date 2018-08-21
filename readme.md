@@ -3,6 +3,8 @@
 
 <p>WP Cutter-Sanborn é um plugin para wordpress que permite colocar um Widget em seu tema para consulta a tabela Cutter.</p>
 
+<img src="https://github.com/bibliotecapucrs/wp_cutter_sanborn/blob/master/screenshot.png">
+
 <hr>
 
 <h1>Objetivos</h1>
