@@ -1,0 +1,38 @@
+/*Cutter- Sanborn*/
+
+.cutter-form {
+	padding: 5px;
+}
+.btn, .form-control.cutter-nome {
+	margin: 5px 0;
+}
+.btn-primary.cutter-gera {
+	width: 100%;
+	background: #0066B3;
+}
+
+.btn-primary.cutter-gera:hover {
+	width: 100%;
+	background: #6C8AC5;
+}
+
+.btn-success.cutter-copia {
+	width: 100%;
+	background: #87D0D0;
+}
+
+.btn-success.cutter-copia:hover {
+	width: 100%;
+	background: #FF6600;
+	color: #000;
+}
+
+.cutter-footer {
+	border-top: #d4d4d4 solid 1px;
+	border-bottom: #d4d4d4 solid 1px;
+	margin: 10px 5px 30px 5px;
+	font-size: 12px;
+	text-align: center;
+	padding: 0 5px;
+
+}
